@@ -1,0 +1,12 @@
+
+install cmake and set path
+C:\Program Files\CMake\bin
+
+install visval studio
+select c++ development from workload tab then set path
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\bin\Hostx64\x64
+
+pip install cmake
+set CMAKE_GENERATOR=Visual Studio 16 2019 Win64
+pip install dlib
